@@ -1,0 +1,53 @@
+body{
+	font-size: 16px;	
+  font-family: Oxygen;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+  border: 2px solid black ;
+}
+#header-nav{
+  background-color:gray;  
+  border:2px solid black; 
+  border-radius: 0;
+}
+.navbar-nav{
+  margin:0 -15px;
+}
+.navbar-brand h1{
+  color: #000;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  margin-left: 15px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+  text-decoration: none;  
+}
+#nav-list li a{
+  color:#000;
+  font-weight: bold;
+}
+#nav-list{
+  border:1px solid;
+}
+#nav-list li{
+  background:white;
+  border-bottom:2px solid;
+  color: #000;
+}
+h3{
+  color: black;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.row div>div{
+  background: gray;
+  border:1px solid black;
+  margin: 10px;
+  font-style: arial;
+  padding :10px;
+  font-weight:600;
+  font-size:1em;
+}
